@@ -31,4 +31,5 @@ _**Documentación**:_ Es la guía o comunicación escrita es sus variadas formas
 -   **Manual del Usuario**: Describe paso a paso la manera como funciona el programa, con el fin de que el usuario obtenga el resultado deseado.
 
 _**Mantenimiento**:_ Se lleva acabo después de terminado el programa, cuando se detecta que es necesario hacer algún cambio, ajuste o complementación al programa para que siga trabajando de manera correcta. Para poder realizar este trabajo se requiere que el programa este correctamente documentado.
+
 ![](https://algoritmosmx.files.wordpress.com/2015/08/trabajando-gif.gif?w=300&h=275)

@@ -1,3 +1,5 @@
+_**Metodología para la solución de problemas por medio de computadoras**_
+
 _**Definición del Problema**:_ Esta fase está dada por el enunciado del problema, el cual requiere una definición clara y precisa. Es importante que se conozca lo que se desea que realice la computadora; mientras esto no se conozca del todo no tiene mucho caso continuar con la siguiente etapa.
 
 _**Análisis del Problema**:_ Una vez que se ha comprendido lo que se desea de la computadora, es necesario definir:
